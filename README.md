@@ -10,6 +10,10 @@
 - 32,000 tests at 30 seconds each = 16,000 minutes per day. Only 1,440 minutes in a day! Uh oh.
 - One way to address the problem is to run multiple tests at once. We can also make judgment calls about what cases, platforms, devices, etc., are not important enough to test every day.
 
+### The Happy Money Path
+
+<img width="800" src="https://user-images.githubusercontent.com/70295997/225186386-a78857aa-1153-4d6d-91c0-91fc06d39816.png">
+
 
 
 
