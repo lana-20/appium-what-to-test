@@ -4,7 +4,7 @@
 
 Understanding our app, breaking down vague testing requirements, and imaginatively exploring edge cases are all part of being a tester. All of this leads to a broad question, namely, how do we decide what to test? And not just *what* but *when*? And on which platforms?
 
-### The Combinatorial Problem
+### [The Combinatorial Problem](https://github.com/lana-20/pairwise-testing/blob/main/Pairwise%20Testing.pdf)
 - Why not just test everything, on all platforms, as frequently as possible?
 - A worked example..
 
